@@ -1,2 +1,2 @@
 # Wander
-A moder and proffesional full-screen landing slideshow page
+A modern and professional full-screen slideshow landing page
